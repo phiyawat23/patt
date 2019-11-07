@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pattarawadee</string>
+    <string name="name">ภัทรวดี อ๋องสกุล</string>
+    <string name="nickname">ก้อย</string>
+    <string name="dob">30/09/40</string>
+    <string name="address">สาขาวิชาวิศวกรรมคอมพิวเตอร์สาขาอุตสาหกรรม มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย วิทยาลัยรัตภูมิ</string>
+    <color name="Bg1">#ffeeff</color>
+    <string name="title_activity_map">Map</string>
+</resources>
